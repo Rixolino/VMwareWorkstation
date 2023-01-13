@@ -31,6 +31,7 @@
   * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.4-20089737.exe
   * ed2k://|file|VMware-workstation-full-16.2.4-20089737.exe|645480520|B8CD29E441892E67E53C148CC4672DE2|/
+  * Key: MC60H-DWHD5-H80U9-6V85M-8280D
 * 16.2.3
   * https://download3.vmware.com/software/WKST-1623-WIN-New/VMware-workstation-full-16.2.3-19376536.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.3-19376536.exe
